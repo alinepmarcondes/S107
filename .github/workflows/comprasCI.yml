@@ -67,6 +67,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+      EMAIL-LIST: alinepmarc@gmail.com
+
     steps:
       - name: Executa comandos
         uses: actions/checkout@v3
