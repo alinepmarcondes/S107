@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/alinepmarcondes/S107/actions/workflows/comprasCI.yml/badge.svg)](https://github.com/alinepmarcondes/S107/actions/workflows/comprasCI.yml)
+
 # S107 - Gerência de Configuração e Evolução de Software
 - Repositório da disciplina Gerência de Configuração e Evolução de Software - S107. 
 - Instituto Nacional de Telecomunicações - Inatel. 
